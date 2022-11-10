@@ -1,0 +1,3 @@
+function suma (a, b, c) { return a + b + c ; }
+suma (5, 10 , 15);
+typeof suma; // "function" 
